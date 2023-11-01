@@ -1,0 +1,3 @@
+﻿  task5.cpp
+C:\Users\FearlessAtom\Desktop\Lab14 Основи програмування\task5\task5\task5.cpp(5,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  task5.vcxproj -> C:\Users\FearlessAtom\Desktop\Lab14 Основи програмування\task5\x64\Debug\task5.exe
